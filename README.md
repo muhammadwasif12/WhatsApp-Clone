@@ -15,7 +15,28 @@ A Flutter-based UI clone of WhatsApp Messenger with modern design and smooth ani
 
 ## 📸 Screenshots
 
-*Add screenshots here*
+### Main Interface
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/screenshots/home.png" alt="Home Screen" width="200" />
+  <img src="assets/screenshots/chat.png" alt="Chat Screen" width="200" />
+  <img src="assets/screenshots/select contact.png" alt="Select Contact" width="200" />
+</div>
+
+### Additional Features
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/screenshots/calls.png" alt="Calls Screen" width="200" />
+  <img src="assets/screenshots/Updates.png" alt="Updates Screen" width="200" />
+  <img src="assets/screenshots/comunity.png" alt="Community Screen" width="200" />
+</div>
+
+### User Settings
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="assets/screenshots/settings.png" alt="Settings Screen" width="200" />
+  <img src="assets/screenshots/Archived.png" alt="Archived Chats" width="200" />
+</div>
 
 ## 🚀 Getting Started
 
